@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+
+.container{
+    background-color: black;
+    display: flex;
+    width:100vw;
+    height:100vh;
+}
+
+.left img{
+    width:50vw;
+    height: 100vh;
+}
+
+.right{
+    width:50vw;
+}
+
+
+
